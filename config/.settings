@@ -1,0 +1,17 @@
+{
+    "projectName": "APEX Superbadge",
+    "username": "admin@apex-spec.demo",
+    "id": "8cf65b70-58b1-11e6-9790-b3ef062db099",
+    "namespace": "",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/Users/mserranocaldeiro/Documents/mavens_workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomObject",
+        "StaticResource"
+    ]
+}
